@@ -4,10 +4,12 @@ Este projeto foi desenvolvido devido a uma ausencia de uma ferramenta automatiza
 Anteriormente esse procedimento era feito de forma manual com comandos executados via CLI que fazia acesso direto a OLT.
 
 A aplicação possui uma tela basica de login.
-![image](https://user-images.githubusercontent.com/100873422/156642832-60194359-fa6e-47b6-b5ef-007907ecefbe.png)
+
+![image](https://user-images.githubusercontent.com/100873422/156643742-451e756a-57be-4f17-9838-053bdcd6f804.png)
 
 Essa é a interface principal da aplicação
-![image](https://user-images.githubusercontent.com/100873422/156643254-722d2667-c97b-41a8-9af2-5f213af756b4.png)
+![image](https://user-images.githubusercontent.com/100873422/156644047-206d3df2-3529-44be-9aee-aad0db287b1d.png)
+
 Abaixo podemos ver algumas abas para realizar outros tipos de provisionamento e uma aba de busca aos logs.
 
 
